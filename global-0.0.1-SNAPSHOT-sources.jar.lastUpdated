@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 25 10:55:28 IST 2019
+http\://repo.jenkins-ci.org/public/.error=
+http\://repo.jenkins-ci.org/public/.lastUpdated=1561440328882
